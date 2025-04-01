@@ -11,5 +11,14 @@
 ## Homework4
 **라그랑주 보간 곡선 그리기** : [라그랑주 보간 곡선 그리기](https://youtu.be/xXru2-Y8YS4)
 
+## Homework5
+**................** : [...................기](..................)
+
+## Homework6
+**................** : [...................기](..................)
+
+## Homework7
+**................** : [...................기](..................)
+
 ## 자기소개
 [자기소개](https://docs.google.com/presentation/d/1YTXWtDWUx6QAC82YvUT7Yk--aLVqaS4yGkj8ei_nhGM/edit?usp=sharing)
