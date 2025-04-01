@@ -7,3 +7,6 @@
 
 ## Homework3
 **Barycentric 좌표 시각화하기(삼각형 내부 보간값 실시간 확인!)** : [Barycentric 좌표 시각화](https://youtu.be/EkQllDetNT4)
+
+## Homework4
+**라그랑주 보간 곡선 그리기** : [라그랑주 보간 곡선 그리기](https://youtu.be/xXru2-Y8YS4)
