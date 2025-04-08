@@ -20,5 +20,3 @@
 ## Homework7
 **Cubic B-Spline 곡선 그리기 제어점 클릭만으로 부드러운 곡선 완성** : [Cubic B-Spline 곡선 그리기](https://youtu.be/dAGY5UXhk4w)
 
-## 자기소개
-[자기소개](https://docs.google.com/presentation/d/1YTXWtDWUx6QAC82YvUT7Yk--aLVqaS4yGkj8ei_nhGM/edit?usp=sharing)
